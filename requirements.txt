@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+jupyter
+nbformat
+nbclient
+nbconvert
+pillow
+pytesseract
+pytest
